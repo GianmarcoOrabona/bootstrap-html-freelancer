@@ -18,3 +18,15 @@ nav a {
   color: var(--bg-primary);
 }
 /* #endregion header */
+
+/* #region main */
+
+/* Section user */
+.bg-custom {
+  background-color: var(--bg-primary);
+}
+
+.jumbo {
+  width: 30%;
+}
+/* #endregion main */
