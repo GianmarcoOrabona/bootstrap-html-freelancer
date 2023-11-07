@@ -29,7 +29,14 @@ nav a {
 .jumbo {
   width: 30%;
 }
-
-/* Section portfolio */
-
 /* #endregion main */
+
+/* #region footer */
+footer {
+  background-color: var(--bg-secondary);
+}
+
+footer p {
+  color: #3a4345;
+}
+/* #endregion footer */
